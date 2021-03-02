@@ -11,8 +11,7 @@ import { OrderComponent } from './order/order.component';
 @NgModule({
   declarations: [
     AppComponent,
-
-    CustomerComponent
+    CustomerComponent,
     OrderComponent
   ],
   imports: [
